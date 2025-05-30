@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my DevBlog!
 ---
-
-Hello World!
+Here I will write some personal notes, while I am learning to become a good developer.
