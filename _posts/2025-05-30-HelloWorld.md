@@ -1,5 +1,5 @@
 ---
-title: "Hello-World"
+title: "HelloWorld"
 date: 2025-05-30
 ---
 
